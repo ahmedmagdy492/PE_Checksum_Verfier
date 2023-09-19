@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PE_Checksum_Verfier", "PE_Checksum_Verfier.vcxproj", "{4482F434-135D-494C-AF56-52C80F5D8BCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4482F434-135D-494C-AF56-52C80F5D8BCE}.Debug|x64.ActiveCfg = Debug|x64
+		{4482F434-135D-494C-AF56-52C80F5D8BCE}.Debug|x64.Build.0 = Debug|x64
+		{4482F434-135D-494C-AF56-52C80F5D8BCE}.Debug|x86.ActiveCfg = Debug|Win32
+		{4482F434-135D-494C-AF56-52C80F5D8BCE}.Debug|x86.Build.0 = Debug|Win32
+		{4482F434-135D-494C-AF56-52C80F5D8BCE}.Release|x64.ActiveCfg = Release|x64
+		{4482F434-135D-494C-AF56-52C80F5D8BCE}.Release|x64.Build.0 = Release|x64
+		{4482F434-135D-494C-AF56-52C80F5D8BCE}.Release|x86.ActiveCfg = Release|Win32
+		{4482F434-135D-494C-AF56-52C80F5D8BCE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A7F142E-6E41-467D-896C-D85B3AAE9F74}
+	EndGlobalSection
+EndGlobal
